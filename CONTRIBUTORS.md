@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jaivanti Dhokey] (https://github.com/jaivanti) 
+- Place: Mumbai, India
+- Bio: Undergrad Student, Researcher
+- Github: [jaivanti](https://github.com/jaivanti)
